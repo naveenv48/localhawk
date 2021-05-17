@@ -6,5 +6,6 @@ public class EasyHello {
 	{
 		System.out.println("Hello JAVA, this is GitHub!!");
 		System.out.println("Changes done in the GitHub");
+		System.out.println("Changes done in the GitHub2");
 	}
 }
